@@ -1,0 +1,30 @@
+{
+  "employees": [
+    {
+      "id": "571d",
+      "name": "Paola Yineth",
+      "lastName": "Sanchez Vargas",
+      "email": "paola@paola.com",
+      "identificationCard": "132142",
+      "isAdmin": false,
+      "password": "pw@UsJKYsRmSV6v",
+      "address": "Dirección de domicilio",
+      "dateOfBirth": "2024-01-15",
+      "phone": 3173072450,
+      "vacunacionStatus": "no vacunado"
+    },
+    {
+      "id": "6e2f",
+      "name": "Manuel Eduardo",
+      "lastName": "Perez Parra",
+      "email": "manu@gmail.com",
+      "identificationCard": "1441242",
+      "isAdmin": true,
+      "password": "XqfkZcYXsMAZazX",
+      "vacunacionStatus": "vacunado",
+      "vacunacionTipe": "AstraZeneca",
+      "vaccinationDate": "024-01-15",
+      "numberDoses": "Dos Dosis"
+    }
+  ]
+}
