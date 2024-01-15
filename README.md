@@ -12,7 +12,7 @@
 <h2>Para inciar la app:</h2>
 
 <li>Para correr el proyecto, primero npm i para instalar dependecias</li>
-<li>Se instala json-server en el computador con el comando npm i json-server, se crea un archivo .json  llamado "db", y se ejecuta el comando json-server --watch db.json para apuntar al archivo que tendra los datos</li>
+<li>Se instala json-server en el computador con el comando npm i json-server y se ejecuta el comando json-server --watch db.json para apuntar al archivo que tendra los datos</li>
 <li>Luego para montar la app se usa el comando "npm run dev"</li>
 
 
